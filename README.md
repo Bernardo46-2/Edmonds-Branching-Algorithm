@@ -1,7 +1,7 @@
 # Edmonds-Branching-Algorithm
 Implementation of the Edmonds graph algoritm for generating MST in directed graphs.
 
-This implementation was based on an [existing haskell implementation](https://github.com/prokls/edmonds-branching-algorithm/blob/master/haskell/edmonds.hs), I just rewrote it in C++ while still keeping the same structure and logic.
+This implementation was based on an [existing haskell implementation](https://github.com/prokls/edmonds-branching-algorithm/), I just rewrote it in C++ while still keeping the same structure and logic.
 
 ## How to use
 If it's the first time running the program, do a `make setup`. After that, just do `make run`.
